@@ -36,3 +36,12 @@ Phase 1 is stability-first.
 ---
 
 # Architecture (Phase 1)
+---
+
+# Governance
+
+System guardrails are defined in:
+
+See [Phase 1 Guardrails](docs/architecture/Phase_1_Guardrails.md)
+
+No structural changes should be made without reviewing that document.
